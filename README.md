@@ -30,6 +30,7 @@
 | Add Member | ![Add Member](screenshots/add.png) |
 | View Members | ![View Members](screenshots/view.png) |
 | Member Details | ![Details](screenshots/details.png) |
+| MongoDB Details | ![Backend](screenshots/mongo.png) |
 
 ---
 
