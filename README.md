@@ -1,4 +1,4 @@
-# ⚡ TEAM FOUR — Student Team Members Management Application
+# TEAM FOUR — Student Team Members Management Application
 
 ![Project Banner](screenshots/home.png)
 
@@ -160,6 +160,7 @@ Frontend runs at: `http://localhost:3000`
 ### Test in Browser
 
 http://localhost:5000/api/members
+
 http://localhost:5000/api/members/<member_id>
 
 ## 📝 Notes
@@ -171,4 +172,4 @@ http://localhost:5000/api/members/<member_id>
 
 ---
 
-*SRM Institute of Science and Technology · School of Computing · 2024–25*
+*SRM Institute of Science and Technology · School of Computing · 2025–26*
