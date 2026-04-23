@@ -78,21 +78,22 @@
 
 ## 📁 Project Structure
 
+```
 team-app/
 ├── backend/
-│   ├── server.js          
-│   ├── uploads/            
+│   ├── server.js
+│   ├── uploads/
 │   ├── package.json
 │   └── .gitignore
 ├── frontend/
 │   ├── public/
 │   │   └── index.html
 │   ├── src/
-│   │   ├── App.js          
-│   │   ├── App.css        
-│   │   ├── index.js        
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   ├── index.js
 │   │   ├── components/
-│   │   │   └── Navbar.js   
+│   │   │   └── Navbar.js
 │   │   └── pages/
 │   │       ├── HomePage.js
 │   │       ├── AddMemberPage.js
@@ -100,10 +101,9 @@ team-app/
 │   │       └── MemberDetailsPage.js
 │   ├── package.json
 │   └── .gitignore
-├── screenshots/            
+├── screenshots/
 └── README.md
-
----
+```
 
 ## ⚙️ Installation & Setup
 
